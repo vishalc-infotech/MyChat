@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 6993,
+  "expoServerNgrokUrl": "https://m4-8et.amritp.mychat.exp.direct",
+  "packagerNgrokUrl": "https://packager.m4-8et.amritp.mychat.exp.direct",
+  "ngrokPid": 7007,
+  "webpackServerPort": null
+}

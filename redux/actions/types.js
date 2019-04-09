@@ -1,0 +1,1 @@
+export const PLAYER_STATE = 'player_visible'
